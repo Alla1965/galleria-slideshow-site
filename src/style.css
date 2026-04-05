@@ -1,0 +1,11 @@
+@import "tailwindcss";
+@import "./styles/variables.css";
+
+@theme {
+  --breakpoint-xxl: 90rem;
+}
+#gallery {
+  width: 100%;
+  
+}
+
