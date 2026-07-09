@@ -25,9 +25,17 @@ The main goal was to practice creating a responsive layout, working with compone
 - Vite
 
 ## Project Structure
-
+galleria-slideshow-site/
 - public
 - src/
 - -  pages/
 - -  styles/
+- -  counter.js
+- -  detail.js
+- -  main.js
+- -  style.css
+- data.json
+- detail.html
+- detail.html
+
 
