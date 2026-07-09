@@ -39,13 +39,13 @@ galleria-slideshow-site/
 - detail.html
 
  ## Main Files
-index.html — the main gallery page
-detail.html — the page with artwork details
-data.json — artwork data
-src/main.js — main page logic
-src/detail.js — detail page logic
-src/counter.js — slideshow or counter logic
-src/style.css — main styles
+- index.html — the main gallery page
+- detail.html — the page with artwork details
+- data.json — artwork data
+- src/main.js — main page logic
+- src/detail.js — detail page logic
+- src/counter.js — slideshow or counter logic
+- src/style.css — main styles
 
 ## What I Learned
 While building this project, I practiced:
