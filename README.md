@@ -57,4 +57,12 @@ While building this project, I practiced:
 - organizing files in a project
 - building responsive layouts
 
+  ## Links
+Repository: https://github.com/Alla1965/galleria-slideshow-site
+Live Site: add-your-live-site-link-here
+
+## Author
+GitHub - Alla1965
+Frontend Mentor - Alla1965
+
 
