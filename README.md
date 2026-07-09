@@ -58,11 +58,11 @@ While building this project, I practiced:
 - building responsive layouts
 
   ## Links
-Repository: https://github.com/Alla1965/galleria-slideshow-site
-Live Site: add-your-live-site-link-here
+- Repository: https://github.com/Alla1965/galleria-slideshow-site
+- Live Site: https://galleria-slideshow-site-beta.vercel.app
 
 ## Author
-GitHub - Alla1965
-Frontend Mentor - Alla1965
+- GitHub - Alla1965
+- Frontend Mentor - Alla1965
 
 
