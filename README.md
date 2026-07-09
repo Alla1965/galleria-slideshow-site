@@ -26,7 +26,7 @@ The main goal was to practice creating a responsive layout, working with compone
 
 ## Project Structure
 
-```text
+-
 src/
 ├── assets/
 ├── components/
