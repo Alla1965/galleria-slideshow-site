@@ -38,4 +38,23 @@ galleria-slideshow-site/
 - detail.html
 - detail.html
 
+ ## Main Files
+index.html — the main gallery page
+detail.html — the page with artwork details
+data.json — artwork data
+src/main.js — main page logic
+src/detail.js — detail page logic
+src/counter.js — slideshow or counter logic
+src/style.css — main styles
+
+## What I Learned
+While building this project, I practiced:
+- creating a multi-page website
+- working with JavaScript modules
+- loading and using data from a JSON file
+- rendering content dynamically
+- creating slideshow navigation
+- organizing files in a project
+- building responsive layouts
+
 
