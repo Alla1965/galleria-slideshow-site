@@ -26,11 +26,8 @@ The main goal was to practice creating a responsive layout, working with compone
 
 ## Project Structure
 
--
-src/
-├── assets/
-├── components/
-├── data/
-├── App.jsx
-├── main.jsx
-└── index.css
+- public
+- src/
+- -  pages/
+- -  styles/
+
